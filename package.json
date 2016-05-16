@@ -1,0 +1,26 @@
+{
+  "name": "vue-semantic",
+  "version": "0.0.1",
+  "description": "A vue ui kit, inspired by semantic ui.",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandada8/vue-semantic.git"
+  },
+  "keywords": [
+    "vuejs",
+    "uikit",
+    "semantic"
+  ],
+  "author": "pandada8 <pandada8@gamil.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pandada8/vue-semantic/issues"
+  },
+  "homepage": "https://github.com/pandada8/vue-semantic#readme",
+  "peerDependencies": {
+    "vue": "~1.0"
+  }
+}
