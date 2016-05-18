@@ -1,4 +1,4 @@
-# vue-semantic
+# semantic-vue
 
 A vue uikit, inspired by semantic ui.
 
