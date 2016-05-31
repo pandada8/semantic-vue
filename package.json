@@ -2,9 +2,7 @@
   "name": "semantic-vue",
   "version": "0.0.1",
   "description": "A vue ui kit, inspired by semantic ui.",
-  "scripts": {
-
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pandada8/semantic-vue.git"
@@ -22,5 +20,8 @@
   "homepage": "https://github.com/pandada8/semantic-vue#readme",
   "peerDependencies": {
     "vue": "~1.0"
+  },
+  "dependencies": {
+    "pure-semantic-ui-css": "^2.1.8"
   }
 }
